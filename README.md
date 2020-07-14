@@ -1,4 +1,4 @@
-### Hi there, I'm Michael 👋
+## Hi there, I'm Michael 👋
 
 #### 🏭 Work
 I'm currently working for SAP. While I was hired as a DevOps Engineer, I'm really more into the whole dev thing. Fullstack rules!
